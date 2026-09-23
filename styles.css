@@ -66,9 +66,18 @@ a {
 }
 
 .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   font-weight: 750;
   letter-spacing: -0.02em;
   font-size: 1.05rem;
+}
+
+.brand-logo {
+  width: 34px;
+  height: 34px;
+  border-radius: 9px;
 }
 
 .nav {
