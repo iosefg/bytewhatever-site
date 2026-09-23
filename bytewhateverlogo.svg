@@ -1,0 +1,9 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="56" fill="#315EFB"></rect>
+
+  <path d="M78 58H132C166 58 186 75 186 103C186 121 176 135 160 141C180 146 194 162 194 184C194 214 171 232 135 232H78V58ZM112 91V128H129C145 128 154 122 154 110C154 98 145 91 129 91H112ZM112 159V199H133C151 199 161 192 161 179C161 166 151 159 133 159H112Z" fill="white"></path>
+
+  <rect x="182" y="56" width="18" height="18" rx="4" fill="#8FC0FF"></rect>
+  <rect x="202" y="76" width="10" height="10" rx="3" fill="white" opacity="0.9"></rect>
+  <rect x="186" y="92" width="8" height="8" rx="2" fill="white" opacity="0.65"></rect>
+</svg>
